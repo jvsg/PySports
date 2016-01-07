@@ -17,4 +17,8 @@ Requirements:
  you would need to install them through :-
  sudo pip install <package name>
 
-Note : pynotify won't work in Windows environment. 
+ #Installation
+ Right now i'm working on a(crash free) way to install this program. So for now run the main.py 
+ python main.py 
+
+ Note : pynotify won't work in Windows environment. 
